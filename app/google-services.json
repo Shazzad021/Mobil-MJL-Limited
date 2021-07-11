@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470790508979",
+    "project_id": "mobil-alpha",
+    "storage_bucket": "mobil-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470790508979:android:f932a6ffe67c2d45a3fbc6",
+        "android_client_info": {
+          "package_name": "com.example.mobil_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470790508979-2v2s81c669kbinretvo6kd7pitplusfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoh7a8ZFUs1Nr1i6XYSnG6BkiptOzudM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470790508979-2v2s81c669kbinretvo6kd7pitplusfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

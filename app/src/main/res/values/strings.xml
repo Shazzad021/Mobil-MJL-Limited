@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Mobil-Alpha</string>
+    <string name="about">
+        ABOUT MOBIL\n \nExxonMobil is an American multinational oil and gas corporation headquartered in Irving Texas. Which was formed on November 30, 1999 by the merger of Exxon (formerly Standard Oil Company of New Jersey) and Mobil (formerly Standard Oil Company of New York).
+
+ExxonMobil uses technology and innovation to help meet the world’s growing energy needs. It is the world’s largest publicly traded international oil and gas company. They hold an industry leading inventory of global oil and gas resources. They are also world’s largest refiner and marketer of petroleum products and their chemical company ranks among the world’s largest.
+
+
+Guiding Principle
+ExxonMobil Corporation is committed to being the world’s premier petroleum and petrochemical company. To that end, ExxonMobil must continuously achieve superior financial and operating results while simultaneously adhering to high ethical standards.
+
+ExxonMobil Corporation maintains the flexibility to adapt changing condition, the nature of the business requires a focused, long-term approach. There is a consistent strive to improve efficiency and productivity through learning, sharing and implementing best practices. ExxonMobil Corporation aspires to achieve its goals by flawlessly executing the business plans and by adhering to these guiding principles and the foundation policies that follow.
+
+
+History
+Both Exxon and Mobil were descendants of Standard Oil, established by John D. Rockfellar and partners in 1870 as the Standard Oil Company of Ohio. In 1882, it together with its affiliated companies was incorporated as the Standard Oil Trust with Standard Oil Company of New Jersey and Standard Oil Company of New York as its largest companies.
+
+In 1995, Socony-Vaccum became Socony Mobil Oil Company. In 1959, Mangolia Peroleum Company, General Petroleum Corporation, and Mobil Producing Company were merged to form the Mobil Oil Company, a wholly owned subsidiary of Socony Mobil. In 1996, Socony Mobil Oil Company became the Mobil Oil Corporation.
+
+In 1972, Exxon was unveiled as the new unified brand name for all former Enco and Esso outlets. At the same time, the company changed its corporate name from standard Oil of New Jersey to Exxon Corporation, and Humble Oil became Exxon Company U.S.A. Exxon replaced the Esso, Enco, and Humble oil brands in the United States on January 1, 1973.
+
+Mobil celebrated its 100 years since the founding of the Vacuum Oil Company in 1866 and changes its name to Mobil Oil Corporation. The company launches a wide-reaching identity program to emphasize the Mobil trade name. Exxon celebrated its 100 years since the formation of the Standard Oil Trust in 1882. In its first hundred years, the company evolved from a domestic refiner and distributor of kerosene to a large multinational corporation, involved at every level of oil and gas exploration, production, refining and marketing, and petrochemicals manufacturing.
+
+In 1998, Exxon and Mobil signed a US$ 73.7 billion merger agreement forming a new company called ExxonMobil Corp. ExxonMobil the largest oil company and third largest company in the world. This was the largest merger at that time. At the time of the merge Exxon was the world’s largest energy company while Mobil was the second largest oil and gas company in the United States.
+
+ExxonMobil is the largest of world’s super major with daily production of 3.921 million BOE (barrels of equivalent). In 2008 this was approximately 3 percent of world’s production, which is less than several of the largest state-owned petroleum companies.
+
+It is the world’s 8th largest company by revenue, also the 5th largest publicly traded company by market capitalization. The company was ranked No.6 globally in Forbes Global 2000 list in 2014. ExxonMobil was the second most profitable company in the Fortune 500 in 2014.
+
+With 37 oil refineries in 21 countries constituting a combined daily refining capacity of 6.3 million barrels, ExxonMobil is the largest refiner in the world, a title that was also associated with Standard Oil since its incorporation in 1870.
+    </string>
+    <string name="riddle">
+        1. Riddle: What has to be broken before you can use it?\n
+Answer: An egg\n\n
+2. Riddle: I’m tall when I’m young, and I’m short when I’m old. What am I?\n
+Answer: A candle\n\n
+3. Riddle: What month of the year has 28 days?\n
+Answer: All of them\n\n
+4. Riddle: What is full of holes but still holds water?\n
+Answer: A sponge\n\n
+5. Riddle: What question can you never answer yes to?\n
+Answer: Are you asleep yet?\n\n
+6. Riddle: What is always in front of you but can’t be seen?\n
+Answer: The future\n\n
+7. Riddle: There’s a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?\n
+Answer: There aren’t any—it’s a one-story house.\n\n
+8. Riddle. What can you break, even if you never pick it up or touch it?\n
+Answer: A promise\n\n
+9. Riddle: What goes up but never comes down?\n
+Answer: Your age\n\n
+10. Riddle: A man who was outside in the rain without an umbrella or hat didn’t get a single hair on his head wet. Why?\n
+Answer: He was bald.\n
+    </string>
+    <string name="AboutDeveloper">
+       𝐍𝐚𝐦𝐞: 𝐌𝐝 𝐒𝐡𝐚𝐳𝐳𝐚𝐝 𝐀𝐥𝐢 𝐒𝐨𝐛𝐮𝐣\n\n𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠\n\n𝐉𝐚𝐬𝐡𝐨𝐫𝐞 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲\n\n𝐌𝐨𝐛𝐢𝐥𝐞: 𝟎𝟏𝟕𝟗𝟑𝟓𝟗𝟓𝟐𝟗𝟎\n\n𝐄𝐦𝐚𝐢𝐥: 𝐬𝐡𝐚𝐳𝐳𝐚𝐝.𝐜𝐬𝐞.𝟗𝟕@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
